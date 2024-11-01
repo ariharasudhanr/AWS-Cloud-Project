@@ -2,7 +2,7 @@ Successfully Deployed code and hosted a Dynamic web Application with AWS (Amazon
 
 I'm thrilled to share my latest project, where I used AWS services to automate the deployment and scaling of a fully functional Dynamic website!
 
-<img align="right" width="450" height="300" src="https://github.com/user-attachments/assets/e28a5801-85e3-4a72-8f88-21de948ce792">
+<img align="right" width="450" height="300" src="https://github.com/user-attachments/assets/01797197-da6e-4002-9e13-99e63f60af77">
 
 AWS Services Used:
 
