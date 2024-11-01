@@ -39,16 +39,16 @@ What I Achieved and the Impact:
 Deployed code and hosted dynamic websites using a load balancer to distribute traffic across different servers based on URL paths and implemented autoscaling automatically scale vertically when CPU utilization exceeded 80%, achieving a 90% improvement in application performance.
 Resolved high-latency issues by integrating CloudFront, reduced application processing time by 65% through caching, leading to a 25% cost reduction and efficiently delivering content to users.
 
-<br /> <img align="center" width="750" height="500" src="https://github.com/user-attachments/assets/df8a00c2-3f10-4e40-aebe-6592ae5066dc"> <br />
+<br /> <img align="center" width="750" height="500" src="https://github.com/user-attachments/assets/ddc8a014-5739-4e51-8874-b7003e9c2a23"> <br />
 
 
-<br /> <img align="center" width="750" height="500" src="https://github.com/user-attachments/assets/c33fd04a-d7ed-4883-86b0-a32699f32739"> <br />
+<br /> <img align="center" width="750" height="500" src="https://github.com/user-attachments/assets/37f9f1c6-3342-4c05-919c-a1a86276c7a3"> <br />
 
-<br /> <img align="center" width="750" height="500" src="https://github.com/user-attachments/assets/1a2f5c6b-0505-4f5e-9f97-c960732b4605"> <br />
+<br /> <img align="center" width="750" height="500" src="https://github.com/user-attachments/assets/44ad0e09-f3d8-42ee-9bf3-3a5cd30e2ed6"> <br />
 
 
-<br /> <img align="center" width="750" height="500" src="https://github.com/user-attachments/assets/8c4c623c-71d2-4e98-8f3f-f3ec989b403b"> <br />
+<br /> <img align="center" width="750" height="500" src="https://github.com/user-attachments/assets/a26ae2f3-b6bf-4e12-8903-dc7cf2dfb06c"> <br />
 
-<br /> <img align="center" width="750" height="500" src="https://github.com/user-attachments/assets/ff29d515-6d35-40af-82bd-4bff7ef1bb5d"> <br />
+<br /> <img align="center" width="750" height="500" src="https://github.com/user-attachments/assets/5aabe1cc-e4f7-4b2d-a89f-3cf52f23c22f"> <br />
 
 
