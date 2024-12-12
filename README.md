@@ -1,6 +1,6 @@
 Successfully Deployed code and hosted a Static web Application with AWS (Amazon Web Services)
 
-I'm thrilled to share my latest project, where I used AWS services to automate the deployment and scaling of a fully functional Dynamic website!
+I'm thrilled to share my latest project, where I used AWS services to automate the deployment and scaling of a fully functional Static website!
 
 <img align="right" width="450" height="300" src="https://github.com/user-attachments/assets/01797197-da6e-4002-9e13-99e63f60af77">
 
