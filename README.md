@@ -36,7 +36,7 @@ Amazon CloudFront: A CDN that caches content globally, reducing latency and impr
 
 What I Achieved and the Impact:
 
-Deployed code and hosted static website using a load balancer to distribute traffic across different servers based on URL paths and implemented autoscaling group to automatically scale server vertically when CPU utilization exceeded 80%, achieving a 90% improvement in application performance.
+Deployed code and hosted static website using a load balancer to distribute traffic across different servers based on URL paths and implemented autoscaling group to automatically scale server horizontally when CPU utilization exceeded 80%, achieving a 90% improvement in application performance.
 Resolved high-latency issues by integrating CloudFront,
 reduced application processing time by 50% through cache and
 efficiently delivering content to users.
